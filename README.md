@@ -1,2 +1,2 @@
 # Mobility-and-Handover-Management-
-This code introduces a cell selection technique employing SDN to perform handover in 5G HetNet. The handover is performed based on multiple parameters such as RSS, dwell time, cell load and user movement direction.
+This code consit of matlab files such as estDataP, mainHetNetwork, subfunc_bildNetwork, Subfunc_distributeUserInNetwrok, and subfunc_plotHetNetworkSetup. All the functions are called in the mainHetNetwrok file. To run this code it is important to adjust the initial and final location of the user and their velocities. The users are distributed randomly in the network and for every execution the result may vary.
