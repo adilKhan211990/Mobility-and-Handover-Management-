@@ -1,2 +1,2 @@
-# Mobility-and-Handover-Management-
+# Mobility-and-Handover-Management
 This code consit of matlab files such as estDataP, mainHetNetwork, subfunc_bildNetwork, Subfunc_distributeUserInNetwrok, and subfunc_plotHetNetworkSetup. All the functions are called in the mainHetNetwrok file. To run this code it is important to adjust the initial and final location of the user and their velocities. The users are distributed randomly in the network and for every execution the result may vary.
